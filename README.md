@@ -6,7 +6,7 @@ Put a tick in “add to PATH”
 
 2. Open cmd and check Python correctly work.
 
-3. Download https://drive.google.com/open?id=1QyOysQAND3Tn5kiZ2KlP3eAfvJSosuS7
+3. Download https://github.com/karkas2d/binarium_sentinel/archive/master.zip
 
 4. Unzip to folder C:\Sentinel
 
